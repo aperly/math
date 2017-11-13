@@ -1,0 +1,16 @@
+{
+  "name": "maymath",
+  "version": "1.0.0",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aperly",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "targilkita": "github:MeggieAgasi/targil2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
